@@ -66,6 +66,8 @@ AML Risk Dashboard
 ```
 
 ---
+<img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/eb4f03bc-7a2a-44df-8706-b055077b1143" />
+
 
 # 📂 Project Structure
 
